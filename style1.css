@@ -290,7 +290,7 @@
               nav .logo {
                 font-size: 15px;
                 font-weight: 600;
-                position: absolute;
+                position: fixed;
             }
             .nav-links ul li {
                 display: block;
